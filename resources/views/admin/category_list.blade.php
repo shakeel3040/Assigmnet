@@ -273,6 +273,9 @@
                 } else {
                     alert('An unexpected error occurred.');
                 }
+
+
+                
                 console.log(xhr.responseText);  
             }
         });
